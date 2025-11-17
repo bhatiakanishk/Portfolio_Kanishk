@@ -22,7 +22,7 @@ const info = [
     {
         icon: <FaMapMarkedAlt />,
         title: "Location",
-        description: "San Francisco, California",
+        description: "Boston, Massachusetts",
     },
 ];
 
